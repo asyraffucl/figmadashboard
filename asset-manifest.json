@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/figmadashboard/static/css/main.69c9f5ec.css",
+    "main.js": "/figmadashboard/static/js/main.18246fe9.js",
+    "static/js/787.fcbd5de7.chunk.js": "/figmadashboard/static/js/787.fcbd5de7.chunk.js",
+    "static/media/transportIcon.svg": "/figmadashboard/static/media/transportIcon.654be71e906e9d7918a65f62380e2676.svg",
+    "static/media/cartIcon.svg": "/figmadashboard/static/media/cartIcon.ad31a888590857c57aab3f8d2021e435.svg",
+    "index.html": "/figmadashboard/index.html",
+    "static/media/houseIcon.svg": "/figmadashboard/static/media/houseIcon.a0914e6ac4cf70465484ac3d1e6aea6a.svg",
+    "main.69c9f5ec.css.map": "/figmadashboard/static/css/main.69c9f5ec.css.map",
+    "main.18246fe9.js.map": "/figmadashboard/static/js/main.18246fe9.js.map",
+    "787.fcbd5de7.chunk.js.map": "/figmadashboard/static/js/787.fcbd5de7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69c9f5ec.css",
+    "static/js/main.18246fe9.js"
+  ]
+}
